@@ -6,7 +6,7 @@ package Clase3;
 
 /**
  *
- * @author edcom
+ * @author Edder
  */
 public class Asignacion {
     
