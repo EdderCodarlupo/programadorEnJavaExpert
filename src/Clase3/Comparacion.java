@@ -19,7 +19,8 @@ public class Comparacion {
         boolean mayorQue = (a > b); // Comprueba si a es mayor que b (mayorQue será false).
         boolean menorIgual = (a <= b); // Comprueba si a es menor o igual que b (menorIgual será true).
         
-        System.out.println(igual);
+        //System.out.println(igual);
+        System.out.println(noIgual);
     }
     
 }
